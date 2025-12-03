@@ -56,6 +56,12 @@
 
 ---
 
+### 📊 Top Languages by Repo
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffer-matos&theme=default" width="100%" />
+</p>
+
+
 ### 📊 GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/jeffer-matos?template=classic&languages=1&theme=tokyonight" width="100%" />
@@ -65,7 +71,7 @@
 
 ### 🔥 Activity Graph
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=jeffer-matos&theme=tokyo-night](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffer-matos&theme=default)" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffer-matos&theme=default" />
 </p>
 
 ---

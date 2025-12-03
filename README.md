@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Metrics (mais estável que Top-Langs)
+### 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-metrics.vercel.app/user/jeffer-matos?template=classic&languages=1&achievements=1&introduction=1&config.timezone=America/Sao_Paulo&theme=tokyonight" width="100%"/>

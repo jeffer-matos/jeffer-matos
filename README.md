@@ -65,7 +65,7 @@
 
 ### 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffer-matos&theme=tokyo-night" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=jeffer-matos&theme=tokyo-night](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffer-matos&theme=default)" />
 </p>
 
 ---

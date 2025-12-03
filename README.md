@@ -57,9 +57,15 @@
 ---
 
 ### 📊 GitHub Metrics
-
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/user/jeffer-matos?template=classic&languages=1&achievements=1&introduction=1&config.timezone=America/Sao_Paulo&theme=tokyonight" width="100%"/>
+  <img src="https://metrics.lecoq.io/jeffer-matos?template=classic&languages=1&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffer-matos&theme=tokyo-night" />
 </p>
 
 ---

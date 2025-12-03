@@ -72,7 +72,7 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffer-matos&theme=tokyonight&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeffer-matos&theme=tokyonight" />
 </p>
 
 ---

@@ -76,13 +76,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffer-matos&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Me encontra aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-schleider-matos-197017163/)

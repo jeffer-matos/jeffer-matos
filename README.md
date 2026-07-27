@@ -197,8 +197,6 @@ No dia a dia, meu foco está em:
 </tr>
 </table>
 
-> 💡 Descrições, stacks e status acima são ilustrativos — ajuste com os nomes, links e badges reais dos seus repositórios.
-
 ---
 
 ## 🔭 Atualmente

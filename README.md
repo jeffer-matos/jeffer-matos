@@ -111,9 +111,6 @@ No dia a dia, meu foco está em:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeffer-matos&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00AAFF&text_color=C9D1D9&ring_color=00AAFF" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffer-matos&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9&langs_count=10" width="49%" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com/?user=jeffer-matos&hide_border=true&background=00000000&ring=00AAFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AB4F8" width="100%" alt="streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffer-matos&bg_color=00000000&color=00E5FF&line=00AAFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
@@ -233,8 +230,6 @@ No dia a dia, meu foco está em:
 ## 🏆 Conquistas
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeffer-matos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophy" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffer-matos/jeffer-matos/output/github-contribution-grid-snake-dark.svg" />

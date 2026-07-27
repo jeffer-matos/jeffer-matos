@@ -57,5 +57,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_lines: yes
           config_display: large
-          # Paleta alinhada ao tema do perfil (preto / azul neon / ciano)
-          config_theme: dark
